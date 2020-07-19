@@ -2,7 +2,7 @@
 # from tryOn import TryOn as tryOn
 
 from flask import Flask, render_template, Response,redirect,request
-from camera import VideoCamera
+
 import os
 app = Flask(__name__)
 
