@@ -90,7 +90,7 @@ tabulate==0.8.6
 tensorboard==2.1.0
 tensorflow==2.1.0
 tensorflow-estimator==2.1.0
-tensorflow-gpu==2.1.0
+tensorflow-gpu==2.1.2
 tensorflow-gpu-estimator==2.1.0
 tensorpack==0.9.8
 termcolor==1.1.0
